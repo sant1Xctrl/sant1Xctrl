@@ -1,6 +1,6 @@
 Santiago Silva
 
-<!--
+
 Desenvolvedor Júnior
 
 Me chamo Santiago Gonzalez Silva, tenho 21 anos e sou Pernambucano. Atualmente estou cursando na instituição do Senac, Recife. Participo da última etapa do curso de Programador de Sistemas dentro do programa social da Serasa Experian em parceria com o Senac e a Gerando Falcões. Estou muito grato e motivado a iniciar minha jornada profissional e aprimorar minhas habilidades como desenvolvedor.
@@ -33,4 +33,4 @@ Me chamo Santiago Gonzalez Silva, tenho 21 anos e sou Pernambucano. Atualmente e
 
 <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sant1Xctrl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 
--->
+
