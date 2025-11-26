@@ -32,4 +32,5 @@ Me chamo Santiago Gonzalez Silva, tenho 21 anos e sou Pernambucano. Atualmente e
 <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=sant1Xctrl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
 <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sant1Xctrl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+
 -->
